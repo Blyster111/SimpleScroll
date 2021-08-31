@@ -9,3 +9,5 @@ Custom vertical & horizontal scrollview with object pooling, supporting dynamic 
 - [x] Fast Forward To Index
 - [x] Smoothly To Index
 - [x] Insert/Edit/Delete Item In Runtime 
+<br> 
+How to use: https://www.youtube.com/watch?v=P3HNCbfZYe0
