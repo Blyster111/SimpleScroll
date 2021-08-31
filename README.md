@@ -1,3 +1,3 @@
 # SimpleScroll
 
-Simplescroll...
+Custom Vertical & Horizontal ScrollView with pooling.
