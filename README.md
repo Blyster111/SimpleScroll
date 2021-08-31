@@ -1,3 +1,10 @@
 # SimpleScroll
 
-Custom Vertical & Horizontal ScrollView with pooling.
+Custom vertical & horizontal scrollview with object pooling, supporting dynamic item sizes.
+
+- [x] Mouse Scroll
+- [x] Touch Scroll
+- [x] Adjustable scroll speed
+- [x] Fast Forward To Index
+- [x] Smoothly To Index
+- [x] Insert/Edit/Delete Item In Runtime 
