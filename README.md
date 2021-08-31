@@ -4,6 +4,7 @@ Custom vertical & horizontal scrollview with object pooling, supporting dynamic 
 
 - [x] Mouse Scroll
 - [x] Touch Scroll
+- [x] Scrollbar
 - [x] Adjustable scroll speed
 - [x] Fast Forward To Index
 - [x] Smoothly To Index
