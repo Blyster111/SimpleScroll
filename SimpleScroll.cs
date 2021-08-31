@@ -5,7 +5,7 @@ using System.Linq;
 using UnityEngine.EventSystems;
 using System.Collections;
 
-namespace Robin
+namespace SimpleScrollUnity
 {
     public class SimpleScroll : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
     {

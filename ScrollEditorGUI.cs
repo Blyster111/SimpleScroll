@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Robin
+namespace SimpleScrollUnity
 {
     [CustomEditor(typeof(SimpleScroll))]
     class ScrollEditorGUI : Editor

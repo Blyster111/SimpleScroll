@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Robin
+namespace SimpleScrollUnity
 {
     public abstract class SimpleScrollItemObject : MonoBehaviour
     {   

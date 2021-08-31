@@ -1,4 +1,4 @@
-namespace Robin
+namespace SimpleScrollUnity
 {
     public abstract class SimpleScrollItem
     {
