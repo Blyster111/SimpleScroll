@@ -1,6 +1,6 @@
 # SimpleScroll
 
-Custom vertical & horizontal scrollview with object pooling, supporting dynamic item sizes.
+Custom vertical & horizontal scrollview with object pooling, supporting dynamic item size.
 
 - [x] Mouse Scroll
 - [x] Touch Scroll
